@@ -14,6 +14,8 @@ Eesmärk on õppida ja katsetada:
 Projekt sobib ideaalselt **koolitööks, hobi-robootikaks** või esimeseks suuremaks Arduino projektiks.
 
 ---
+## Video
+- https://youtu.be/LULcX2N-Ieg?si=8mP1pybvmYF8FFTX
 
 ## 🎮 Funktsioonid
 - 🔄 Edasi / tagasi liikumine  
