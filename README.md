@@ -29,13 +29,7 @@ Projekt sobib ideaalselt **koolitööks, hobi-robootikaks** või esimeseks suure
 - Mootoridraiver (nt L298N / L293D)
 - Juhtmevaba moodul (Bluetooth / RF / ESP)
 - Toiteallikas (akud)
-- Juhtmed ja šassii
-
----
-
-## 🔌 Skeem
-> 🛠️ Skeem lisatakse siia  
-> (nt pilt või link Fritzing/diagrammile)
+- Juhtmed
 
 ---
 
@@ -50,12 +44,7 @@ Projekt sobib ideaalselt **koolitööks, hobi-robootikaks** või esimeseks suure
 1. Ühenda elektroonika vastavalt skeemile  
 2. Laadi kood Arduino peale  
 3. Ühenda pult autoga  
-4. Sõida 😎
-
----
-
-## 📸 Galerii
-> 📷 Siia saad lisada pilte või videoid töötavast autost
+4. Sõida 
 
 ---
 
@@ -73,5 +62,5 @@ See projekt on avaldatud **MIT litsentsi** all – kasuta, muuda ja õpi vabalt.
 ---
 
 ## 👨‍💻 Autor
-**Sinu nimi**  
+**Rego Märk**  
 Robootika entusiast 🚀
